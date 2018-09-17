@@ -1,0 +1,51 @@
+p,
+.release,
+.lane-cond {
+  background-color: rgb(206, 236, 206);
+  margin-top: 20px;
+  margin-left: 2%;
+  margin-right: 2%;
+  margin-bottom: 20px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+  padding-left: 10px;
+  padding-right: 10px;
+  font-family: Arial;
+  text-align: left;
+  font-size: 17px;
+}
+
+h1 {
+  text-align: center;
+}
+
+h3,
+h2 {
+  text-align: left;
+  font-family: 'Courier New';
+}
+
+.intro {
+    font-family: Georgia;
+    border: 2px solid goldenrod;
+    background-color: navajowhite;
+    text-align: center;
+    font-size: 18px;
+}
+
+#first-line {
+    font-family: Helvetica;
+}
+
+.contents {
+    background-color: rgb(252, 252, 104);
+    margin-top: 20px;
+    margin-left: 2%;
+    margin-right: 2%;
+    margin-bottom: 20px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 17px;
+}
